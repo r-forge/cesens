@@ -43,7 +43,17 @@ echo $contents; } ?>
 
 <!-- end of project description -->
 
-<p> No content added. </p>
+<p> This package provides a graphical tool to facilitate sensitivity analysis
+for assessing the surrogate value of a biomarker. It is based on the
+principal stratification framework.</p>
+
+<p>A surrogate endpoint is a biomarker measurement made shortly after a
+treatment is administered that reliably predict future clinical endpoints.
+Several statistical methods have been proposed to assess the surrogate
+value of biomarkers. Most seek to estimate counterfactual-based quantities
+that represent causal effects. Since the estimands underpinning these
+methods generally are not statistically identifiable without strong,
+untestable assumptions, sensitivity analysis plays a key role. </p>
 
 <p> The <strong>project summary page</strong> you can find <a href="http://<?php echo $domain; ?>/projects/<?php echo $group_name; ?>/"><strong>here</strong></a>. </p>
 
