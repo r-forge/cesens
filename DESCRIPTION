@@ -1,0 +1,13 @@
+Package: CESens
+Type: Package
+Title: Sensitivity Analysis For Causal Effect Estimation
+Version: 1.01
+Date: 2013-03-07
+Author: Lisa Henn 
+Maintainer: Julian Wolfson <julianw@umn.edu>
+Description:  An interactive tool for estimating principal stratification-based causal effects 
+  complete with sensitivity analysis.  User can define distributions for factual and counterfactual
+  trial data and compute causal effect and 95% confidence intervals.
+Depends:  rpanel, tkrplot, boot, tcltk
+SystemRequirements:  Windows 7 (other versions may work, but have not been tested)
+License: GPL-3

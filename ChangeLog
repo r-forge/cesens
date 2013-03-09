@@ -1,0 +1,10 @@
+Change log for package CESens:
+
+* V 0.5 19 May 2012 Lisa Henn, henn0449@umn.edu.
+  Initial assembly into a package for beta testing.
+  
+* V 1.0 14 December 2012 Lisa Henn, henn0449@umn.edu.
+  Assembly for submittal to Journal of Statistical Software.  
+  
+  * V 1.01 7 March 2013 Lisa Henn, henn0449@umn.edu.
+  Minor documentation corrections per request by Comprehensive R Archive Network.  
